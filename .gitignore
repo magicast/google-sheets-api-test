@@ -105,3 +105,8 @@ venv.bak/
 
 # idea
 .idea
+
+# credentials
+credentials.json
+token.pickle
+
